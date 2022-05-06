@@ -27,8 +27,6 @@
 <br>
 <br>
 
-
-<img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
 <div style="display:flex">
 <img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raviverma2791747&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=raviverma2791747&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>

@@ -1,5 +1,6 @@
 ## Languages and Tools:
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=raviverma2791747.visitor-badge)
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 
